@@ -175,11 +175,8 @@ If you want better predictions:
 
 ## 🙋‍♂️ Author
 
-Built by [Bhuvan Chandan N A]  
-GitHub: [@bhuvan726](https://github.com/bhuvan726)
+Built by Bhuvan Chandan N A 
+
+GitHub: https://github.com/bhuvan726
 
 ---
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
