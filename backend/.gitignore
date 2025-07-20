@@ -1,0 +1,14 @@
+# Ignore Python virtual environment
+.venv/
+
+# Ignore model files
+model/
+tokenizer.pkl
+
+# Ignore dataset
+data/
+sentences.csv
+
+# Python cache
+__pycache__/
+*.pyc
