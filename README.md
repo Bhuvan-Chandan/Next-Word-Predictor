@@ -177,6 +177,6 @@ If you want better predictions:
 
 Built by Bhuvan Chandan N A 
 
-GitHub: https://github.com/bhuvan726
+GitHub: https://github.com/Bhuvan-Chandan
 
 ---
